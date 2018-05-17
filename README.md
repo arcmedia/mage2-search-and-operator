@@ -21,5 +21,6 @@ With the AND operator, search results will be:
 ## Setup ##
 Install via composer "composer require arcmedia/mage2-search-and-operator"
 
+run "php bin/magento setup:upgrade"
 flush all caches.
 
